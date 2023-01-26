@@ -1,0 +1,1 @@
+print("normalized of this query : ")
